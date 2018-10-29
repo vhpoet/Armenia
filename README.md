@@ -25,6 +25,7 @@
 - [Charentsi 28](https://goo.gl/maps/xHUigfXmkMS2)
 - [Cafe Central](https://goo.gl/maps/sG5PzAuTYEr)
 - [Antep](https://goo.gl/maps/3GMKupfqP4A2)
+- [Dolmama](https://goo.gl/maps/wtht362e1wS2)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
@@ -36,12 +37,14 @@
 - [Charles Aznavour square](https://goo.gl/maps/NEsgaHBirCm)
 - [Vernissage Flea Market](https://goo.gl/maps/wByavoif8z42)
 - [Republic Square](https://goo.gl/maps/aEnJRGbNHSz)
+- [Gum Market](https://goo.gl/maps/scUQRLkf7c72): 
 
 #### Museums
 - [Armenian Genocide Memorial/Museum](https://goo.gl/maps/aJfGXgSphWM2)
 - [Erebuni Museum Archaeological Preserve](https://goo.gl/maps/Kx4pLf4Fb2u)
 - [Sergei Paradjanov Museum](https://goo.gl/maps/9A3VCiqVBnC2)
 - [National Gallery of Armenia](https://goo.gl/maps/7TftUNLBFPS2)
+- [Matenadaran](https://goo.gl/maps/Aksp9EW366o): Scientific research institute exhibiting many of its rare manuscripts, parchments & books.
 
 #### Drinks
 - [Simona](https://www.google.com/maps/place/Simona/@40.1838249,44.5090154,16z/data=!4m8!1m2!2m1!1sbar!3m4!1s0x0:0xf953c923afb8efca!8m2!3d40.1837628!4d44.5077878)
