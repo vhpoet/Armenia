@@ -44,3 +44,4 @@
 - [The Kond House](https://www.google.com/maps/place/The+Kond+House/@40.1804818,44.4995676,16z/data=!4m8!1m2!2m1!1sbars!3m4!1s0x0:0x3d8ab82a8cc680c!8m2!3d40.1799953!4d44.5024543)
 - [Dargett](https://goo.gl/maps/9MC9Zp1Ubrr)
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
+- [Daboo](https://goo.gl/maps/vcA5hztztFr)
