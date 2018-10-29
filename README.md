@@ -121,3 +121,4 @@
 - [Cafe 2](https://goo.gl/maps/5p61uTCxMrw)
 - [Kchuch Restaurant](https://goo.gl/maps/tCvxLbw9EcM2)
 - [Garage Pub Dilijann](https://www.facebook.com/Garage-pub-Dilijan-775031456162025)
+- [Tava Losh](https://goo.gl/maps/eqfxLj867St)
