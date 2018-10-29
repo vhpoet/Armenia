@@ -79,6 +79,7 @@
 #### Dinner
 - [Cherkezi Dzor](https://goo.gl/maps/7YY7d5UXszs)
 - [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
+- [Mosaic Sky Bar](https://goo.gl/maps/5kgacXDAXRH2): Good views to the city
 
 ### Experience
 #### Museums
