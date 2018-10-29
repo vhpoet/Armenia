@@ -28,6 +28,7 @@
 - [Cafe Central](https://goo.gl/maps/sG5PzAuTYEr)
 - [Antep](https://goo.gl/maps/3GMKupfqP4A2)
 - [Dolmama](https://goo.gl/maps/wtht362e1wS2)
+- [Mosaic Sky Bar](https://goo.gl/maps/5kgacXDAXRH2): Good views to the city
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
@@ -81,7 +82,6 @@
 #### Dinner
 - [Cherkezi Dzor](https://goo.gl/maps/7YY7d5UXszs)
 - [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
-- [Mosaic Sky Bar](https://goo.gl/maps/5kgacXDAXRH2): Good views to the city
 
 ### Experience
 #### Museums
