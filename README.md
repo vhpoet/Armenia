@@ -6,18 +6,28 @@
 - [Mirzoyan Library](https://www.google.com/maps/place/Mirzoyan+Library/@40.1749105,44.5099796,17z/data=!3m1!4b1!4m5!3m4!1s0x406abcf784564779:0x878f9a59fe6f0f96!8m2!3d40.1749064!4d44.5121682)
 - [Second Floor](https://www.google.com/maps/place/2nd+floor/@40.1809282,44.5132838,17z/data=!4m12!1m6!3m5!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!2s2nd+floor!8m2!3d40.1809241!4d44.5154725!3m4!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!8m2!3d40.1809241!4d44.5154725)
 - [Dalan Art Gallery and Cafe](https://goo.gl/maps/cT4Cs7uvcd52)
-- [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy)
 - [Ilik](https://goo.gl/maps/Rx78dMpc17N2)
 - [Grand Candy](https://goo.gl/maps/XkUWrXgaTdt): Dessert Restaurant (ponchik)
+- [Vergnano](https://goo.gl/maps/kBFgQWGbqwx)
+- [Coffee Shop Company](https://goo.gl/maps/rSVaDuS4UN92)
+- [Aperitivo](https://goo.gl/maps/nUmmcs7Rano)
 
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
 - [Green Bean](https://goo.gl/maps/BmdQXFg35xz)
 - [Aperitivo Yerevan](https://goo.gl/maps/s2jAkGSsYH52)
+- [Brioche](https://goo.gl/maps/Y2CeyNKGbMH2)
+- [Gouroo Club and Garden](https://goo.gl/maps/dFs5wgP6dgG2)
+- [The Coast](https://goo.gl/maps/ftsH4j1HqgE2)
+- [Crumbs](https://goo.gl/maps/YEpZGLuyHVt)
+- [Panatsea](https://goo.gl/maps/RL49eC9M6PT2)
 
 #### Lunch
 - [Zeituna](https://goo.gl/maps/vUuKFy187xN2)
 - [Cafe Aperitivo](https://goo.gl/maps/Ak1zogCiU3x)
+- [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy): Good for vegans
+- [Crumbs](https://goo.gl/maps/YEpZGLuyHVt)
+- [Beirut Cafe](https://goo.gl/maps/Z5e5eL9re7F2)
 
 #### Dinner
 - [Tapastan](https://goo.gl/maps/YB261QYLKdP2)
@@ -56,6 +66,8 @@
 - [Matenadaran](https://goo.gl/maps/Aksp9EW366o): Scientific research institute exhibiting many of its rare manuscripts, parchments & books.
 - [Komitas Museum](https://goo.gl/maps/8thSRLUQnqo)
 - [History Museum Of Armenia](https://goo.gl/maps/TrVzYwYAoRt)
+- [Megerian Carpet Museum](https://goo.gl/maps/9mEhNwExFVB2)
+- [Folk Art Museum](https://goo.gl/maps/bdXWKUW2edy)
 
 #### Drinks
 - [Simona](https://www.google.com/maps/place/Simona/@40.1838249,44.5090154,16z/data=!4m8!1m2!2m1!1sbar!3m4!1s0x0:0xf953c923afb8efca!8m2!3d40.1837628!4d44.5077878)
@@ -80,13 +92,21 @@
 
 ## Gyumri
 ### Food / Cafe
-#### Dinner
 - [Cherkezi Dzor](https://goo.gl/maps/7YY7d5UXszs)
 - [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
+- [Herbs and Honey](https://goo.gl/maps/tKXz2bVz6Sv)
+- [Yaghli House](https://goo.gl/maps/93EPyGzPnB62)
+- [Poloz Mukuch](https://goo.gl/maps/3SgkUcoxrcF2)
 
 ### Experience
+#### To See
+- [Vardanants Square](https://goo.gl/maps/TrhWRXw5m8Q2)
+- [Rustaveli Street](https://goo.gl/maps/GDBApb55s3M2)
+- [Black Castle](https://goo.gl/maps/GoURDQ2PAJQ2)
+
 #### Museums
 - [Museum of National Architecture and Urban Life](https://goo.gl/maps/nKhuHkyfaXo)
+- [Museum of Aslamazyan Sisters](https://goo.gl/maps/XYtx72jpKfv)
 
 ## Dilijan
 - [Caffeine Brew Lab](https://goo.gl/maps/WaJmiVprpkD2) 
