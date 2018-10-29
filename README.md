@@ -52,6 +52,7 @@
 - [Sergei Paradjanov Museum](https://goo.gl/maps/9A3VCiqVBnC2)
 - [National Gallery of Armenia](https://goo.gl/maps/7TftUNLBFPS2)
 - [Matenadaran](https://goo.gl/maps/Aksp9EW366o): Scientific research institute exhibiting many of its rare manuscripts, parchments & books.
+- [Komitas Museum](https://goo.gl/maps/8thSRLUQnqo)
 
 #### Drinks
 - [Simona](https://www.google.com/maps/place/Simona/@40.1838249,44.5090154,16z/data=!4m8!1m2!2m1!1sbar!3m4!1s0x0:0xf953c923afb8efca!8m2!3d40.1837628!4d44.5077878)
