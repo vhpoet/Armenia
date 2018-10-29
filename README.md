@@ -81,3 +81,9 @@
 ### Experience
 #### Museums
 - [Museum of National Architecture and Urban Life](https://goo.gl/maps/nKhuHkyfaXo)
+
+## Dilijan
+- [Caffeine Brew Lab](https://goo.gl/maps/WaJmiVprpkD2) 
+- [Cafe 2](https://goo.gl/maps/5p61uTCxMrw)
+- [Kchuch Restaurant](https://goo.gl/maps/tCvxLbw9EcM2)
+- [Garage Pub Dilijann](https://www.facebook.com/Garage-pub-Dilijan-775031456162025)
