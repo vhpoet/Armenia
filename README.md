@@ -29,6 +29,7 @@
 - [Antep](https://goo.gl/maps/3GMKupfqP4A2)
 - [Dolmama](https://goo.gl/maps/wtht362e1wS2)
 - [Mosaic Sky Bar](https://goo.gl/maps/5kgacXDAXRH2): Good views to the city
+- [Yard](https://goo.gl/maps/FdaxZbL3nBS2)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
