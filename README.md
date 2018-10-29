@@ -11,6 +11,7 @@
 - [Vergnano](https://goo.gl/maps/kBFgQWGbqwx)
 - [Coffee Shop Company](https://goo.gl/maps/rSVaDuS4UN92)
 - [Aperitivo](https://goo.gl/maps/nUmmcs7Rano)
+- [The Italian](https://goo.gl/maps/1pZEKsjA5g92)
 
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
@@ -21,6 +22,7 @@
 - [The Coast](https://goo.gl/maps/ftsH4j1HqgE2)
 - [Crumbs](https://goo.gl/maps/YEpZGLuyHVt)
 - [Panatsea](https://goo.gl/maps/RL49eC9M6PT2)
+- [Temurnots](https://goo.gl/maps/RAJXGdZbmTu)
 
 #### Lunch
 - [Zeituna](https://goo.gl/maps/vUuKFy187xN2)
@@ -40,6 +42,9 @@
 - [Dolmama](https://goo.gl/maps/wtht362e1wS2)
 - [Mosaic Sky Bar](https://goo.gl/maps/5kgacXDAXRH2): Good views to the city
 - [Yard](https://goo.gl/maps/FdaxZbL3nBS2)
+- [Tsirani](https://goo.gl/maps/3SkZn1aWonu)
+- [Mayrig](https://goo.gl/maps/f4BduMX6wf52)
+- [Tun Lahmajo](https://goo.gl/maps/aMZ2L3SAPw22)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
@@ -49,6 +54,7 @@
 #### To Do
 - [ArmUp Hiking Club](https://www.facebook.com/Armuphiking): They have free walking city tours, text the page for more info.
 - [Ararat Brandy Company](https://goo.gl/maps/QFPhtU7Dqzt): They have tours and tastings.
+- [Yerevan Zipline](https://goo.gl/maps/wsD9BoNUX342)
 
 #### To See
 - [Cascade Complex](https://goo.gl/maps/TnwMbX2TcUQ2)
@@ -81,6 +87,8 @@
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Daboo](https://goo.gl/maps/vcA5hztztFr)
 - [Epicure](https://goo.gl/maps/DsCzhPr49SH2)
+- [Forty Four Sky](https://goo.gl/maps/xeVXKFCtjyt): Rooftop with great views
+- [Pahest33](https://goo.gl/maps/4yHrbRSL4dQ2)
 
 #### Live Music
 - [Calumet](https://www.google.com/maps/place/Calumet+Ethnic+Lounge+Bar/@40.1832392,44.5098291,16z/data=!4m8!1m2!2m1!1sbars!3m4!1s0x0:0x36d2daabb45bcbe!8m2!3d40.1851541!4d44.5093971)
