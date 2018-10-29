@@ -19,6 +19,7 @@
 - [Tapastan](https://goo.gl/maps/YB261QYLKdP2)
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Pandok Yerevan](https://goo.gl/maps/2Uwf1CrveHR2)
+- [Lavash Restaurant](https://goo.gl/maps/m8i7i7fNiTR2)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
@@ -34,7 +35,8 @@
 #### Museums
 - [Armenian Genocide Memorial/Museum](https://goo.gl/maps/aJfGXgSphWM2)
 - [Erebuni Museum Archaeological Preserve](https://goo.gl/maps/Kx4pLf4Fb2u)
-- [Sergey Paradjanov Museum](https://goo.gl/maps/BzoYy5M5xJx)
+- [Sergei Paradjanov Museum](https://goo.gl/maps/9A3VCiqVBnC2)
+- [National Gallery of Armenia](https://goo.gl/maps/7TftUNLBFPS2)
 
 #### Drinks
 - [Simona](https://www.google.com/maps/place/Simona/@40.1838249,44.5090154,16z/data=!4m8!1m2!2m1!1sbar!3m4!1s0x0:0xf953c923afb8efca!8m2!3d40.1837628!4d44.5077878)
@@ -48,3 +50,21 @@
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Daboo](https://goo.gl/maps/vcA5hztztFr)
 - [Epicure](https://goo.gl/maps/DsCzhPr49SH2)
+
+#### Live Music
+- [Calumet](https://www.google.com/maps/place/Calumet+Ethnic+Lounge+Bar/@40.1832392,44.5098291,16z/data=!4m8!1m2!2m1!1sbars!3m4!1s0x0:0x36d2daabb45bcbe!8m2!3d40.1851541!4d44.5093971)
+- [Stop Club](https://goo.gl/maps/q1WahVm9itn)
+
+#### To Work
+- [Impact Hub Yerevan](https://goo.gl/maps/9GYENy9fUe82)
+- [Loft](https://goo.gl/maps/fT2CF8PrwF12)
+
+## Gyumri
+### Food / Cafe
+#### Dinner
+- [Cherkezi Dzor](https://goo.gl/maps/9dwCrQcTN312)
+- [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
+
+### Experience
+#### Museums
+- [Dzitoghconc tun Museum](https://goo.gl/maps/nKhuHkyfaXo)
