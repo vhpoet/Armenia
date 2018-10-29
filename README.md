@@ -32,6 +32,9 @@
 - [Artashi Mot](https://www.google.com/maps/search/food/@40.1827028,44.5108545,16z)
 
 ### Experience
+#### To Do
+- [ArmUp Hiking Club](https://www.facebook.com/Armuphiking): They have free walking city tours, text the page for more info.
+
 #### To See
 - [Cascade Complex](https://goo.gl/maps/TnwMbX2TcUQ2)
 - [Charles Aznavour square](https://goo.gl/maps/NEsgaHBirCm)
