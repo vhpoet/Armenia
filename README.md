@@ -10,6 +10,7 @@
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
 - [Green Bean](https://goo.gl/maps/BmdQXFg35xz)
+- [Aperitivo Yerevan](https://goo.gl/maps/s2jAkGSsYH52)
 
 #### Lunch
 - [Zeituna](https://goo.gl/maps/vUuKFy187xN2)
