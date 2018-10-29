@@ -33,6 +33,7 @@
 #### Museums
 - [Armenian Genocide Memorial/Museum](https://goo.gl/maps/aJfGXgSphWM2)
 - [Erebuni Museum Archaeological Preserve](https://goo.gl/maps/Kx4pLf4Fb2u)
+- [Sergey Paradjanov Museum](https://goo.gl/maps/BzoYy5M5xJx)
 
 #### Drinks
 - [Simona](https://www.google.com/maps/place/Simona/@40.1838249,44.5090154,16z/data=!4m8!1m2!2m1!1sbar!3m4!1s0x0:0xf953c923afb8efca!8m2!3d40.1837628!4d44.5077878)
@@ -45,3 +46,4 @@
 - [Dargett](https://goo.gl/maps/9MC9Zp1Ubrr)
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Daboo](https://goo.gl/maps/vcA5hztztFr)
+- [Epicure](https://goo.gl/maps/DsCzhPr49SH2)
