@@ -62,9 +62,9 @@
 ## Gyumri
 ### Food / Cafe
 #### Dinner
-- [Cherkezi Dzor](https://goo.gl/maps/9dwCrQcTN312)
+- [Cherkezi Dzor](https://goo.gl/maps/7YY7d5UXszs)
 - [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
 
 ### Experience
 #### Museums
-- [Dzitoghconc tun Museum](https://goo.gl/maps/nKhuHkyfaXo)
+- [Museum of National Architecture and Urban Life](https://goo.gl/maps/nKhuHkyfaXo)
