@@ -43,7 +43,8 @@
 - [Charles Aznavour square](https://goo.gl/maps/NEsgaHBirCm)
 - [Vernissage Flea Market](https://goo.gl/maps/wByavoif8z42)
 - [Republic Square](https://goo.gl/maps/aEnJRGbNHSz)
-- [Gum Market](https://goo.gl/maps/scUQRLkf7c72): 
+- [Gum Market](https://goo.gl/maps/scUQRLkf7c72)
+- [Children's Railway](https://goo.gl/maps/xQF1uyvUUrL2): Extremely chill park: We used to hangout here as kids in our goth phase.
 
 #### Museums
 - [Armenian Genocide Memorial/Museum](https://goo.gl/maps/aJfGXgSphWM2)
