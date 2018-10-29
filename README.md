@@ -10,6 +10,7 @@
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
 - [Green Bean](https://goo.gl/maps/BmdQXFg35xz)
+- [Aperitivo Yerevan](https://goo.gl/maps/s2jAkGSsYH52)
 
 #### Lunch
 - [Zeituna](https://goo.gl/maps/vUuKFy187xN2)
@@ -48,6 +49,7 @@
 - [Dargett](https://goo.gl/maps/9MC9Zp1Ubrr)
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Daboo](https://goo.gl/maps/vcA5hztztFr)
+- [Epicure](https://goo.gl/maps/DsCzhPr49SH2)
 
 #### Live Music
 - [Calumet](https://www.google.com/maps/place/Calumet+Ethnic+Lounge+Bar/@40.1832392,44.5098291,16z/data=!4m8!1m2!2m1!1sbars!3m4!1s0x0:0x36d2daabb45bcbe!8m2!3d40.1851541!4d44.5093971)
@@ -56,7 +58,6 @@
 #### To Work
 - [Impact Hub Yerevan](https://goo.gl/maps/9GYENy9fUe82)
 - [Loft](https://goo.gl/maps/fT2CF8PrwF12)
-
 
 ## Gyumri
 ### Food / Cafe
