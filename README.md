@@ -7,6 +7,7 @@
 - [Second Floor](https://www.google.com/maps/place/2nd+floor/@40.1809282,44.5132838,17z/data=!4m12!1m6!3m5!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!2s2nd+floor!8m2!3d40.1809241!4d44.5154725!3m4!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!8m2!3d40.1809241!4d44.5154725)
 - [Dalan Art Gallery and Cafe](https://goo.gl/maps/cT4Cs7uvcd52)
 - [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy)
+- [Grand Candy](https://goo.gl/maps/XkUWrXgaTdt): Dessert Restaurant (ponchik)
 
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
@@ -34,6 +35,7 @@
 ### Experience
 #### To Do
 - [ArmUp Hiking Club](https://www.facebook.com/Armuphiking): They have free walking city tours, text the page for more info.
+- [Ararat Brandy Company](https://goo.gl/maps/QFPhtU7Dqzt): They have tours and tastings.
 
 #### To See
 - [Cascade Complex](https://goo.gl/maps/TnwMbX2TcUQ2)
