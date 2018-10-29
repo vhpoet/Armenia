@@ -6,6 +6,7 @@
 - [Mirzoyan Library](https://www.google.com/maps/place/Mirzoyan+Library/@40.1749105,44.5099796,17z/data=!3m1!4b1!4m5!3m4!1s0x406abcf784564779:0x878f9a59fe6f0f96!8m2!3d40.1749064!4d44.5121682)
 - [Second Floor](https://www.google.com/maps/place/2nd+floor/@40.1809282,44.5132838,17z/data=!4m12!1m6!3m5!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!2s2nd+floor!8m2!3d40.1809241!4d44.5154725!3m4!1s0x406abd44f6b9ad85:0x1c531ed5bd3dcc36!8m2!3d40.1809241!4d44.5154725)
 - [Dalan Art Gallery and Cafe](https://goo.gl/maps/cT4Cs7uvcd52)
+- [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy)
 
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
@@ -20,6 +21,9 @@
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Pandok Yerevan](https://goo.gl/maps/2Uwf1CrveHR2)
 - [Lavash Restaurant](https://goo.gl/maps/m8i7i7fNiTR2)
+- [Charentsi 28](https://goo.gl/maps/xHUigfXmkMS2)
+- [Cafe Central](https://goo.gl/maps/sG5PzAuTYEr)
+- [Antep](https://goo.gl/maps/3GMKupfqP4A2)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
