@@ -125,3 +125,4 @@
 - [Garage Pub Dilijann](https://www.facebook.com/Garage-pub-Dilijan-775031456162025)
 - [Tava Losh](https://goo.gl/maps/eqfxLj867St)
 - [Carahunge Cafe](https://goo.gl/maps/JMS86D6UAUA2)
+- [Yell Extreme Park](https://goo.gl/maps/kXdevQz74ZR2)
