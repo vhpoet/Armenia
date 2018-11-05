@@ -1,4 +1,5 @@
-# Armenia
+Here's what's up in Armenia
+
 ## Yerevan
 ### Food / Cafe
 #### Cafe
