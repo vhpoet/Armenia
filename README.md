@@ -15,10 +15,11 @@ Here's what's up in Armenia
 - [Aperitivo](https://goo.gl/maps/nUmmcs7Rano)
 - [The Italian](https://goo.gl/maps/1pZEKsjA5g92)
 - [Buro](https://goo.gl/maps/M6Qp6cdbbCn): Great for working
+- [Shanti](https://goo.gl/maps/Mdm7xYP1m7Q2): Huge selection of teas
 
 #### Breakfast
-- [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12)
-- [Green Bean](https://goo.gl/maps/BmdQXFg35xz)
+- [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12): Healthy food (vegan options)
+- [Green Bean](https://goo.gl/maps/BmdQXFg35xz): Healthy food (vegan options)
 - [Aperitivo Yerevan](https://goo.gl/maps/s2jAkGSsYH52)
 - [Brioche](https://goo.gl/maps/Y2CeyNKGbMH2)
 - [Gouroo Club and Garden](https://goo.gl/maps/dFs5wgP6dgG2)
@@ -28,9 +29,10 @@ Here's what's up in Armenia
 - [Temurnots](https://goo.gl/maps/RAJXGdZbmTu)
 
 #### Lunch
-- [Zeituna](https://goo.gl/maps/vUuKFy187xN2)
+- [Shanti](https://goo.gl/maps/Mdm7xYP1m7Q2): First fully vegetarian restaurant in Yerevan
+- [Zeituna](https://goo.gl/maps/vUuKFy187xN2): Healthy food (vegan options)
 - [Cafe Aperitivo](https://goo.gl/maps/Ak1zogCiU3x)
-- [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy): Good for vegans
+- [Twelve Tables](https://goo.gl/maps/knLmjnZs2wy): Healthy food (vegan options)
 - [Crumbs](https://goo.gl/maps/YEpZGLuyHVt)
 - [Beirut Cafe](https://goo.gl/maps/Z5e5eL9re7F2)
 
@@ -38,8 +40,8 @@ Here's what's up in Armenia
 - [Tapastan](https://goo.gl/maps/YB261QYLKdP2)
 - [The Club](https://goo.gl/maps/FHLuDv9yWoq)
 - [Pandok Yerevan](https://goo.gl/maps/2Uwf1CrveHR2)
-- [Lavash Restaurant](https://goo.gl/maps/m8i7i7fNiTR2)
-- [Charentsi 28](https://goo.gl/maps/xHUigfXmkMS2)
+- [Lavash Restaurant](https://goo.gl/maps/m8i7i7fNiTR2): Has vegan options
+- [Charentsi 28](https://goo.gl/maps/xHUigfXmkMS2): Has vegan options
 - [Cafe Central](https://goo.gl/maps/sG5PzAuTYEr)
 - [Antep](https://goo.gl/maps/3GMKupfqP4A2)
 - [Dolmama](https://goo.gl/maps/wtht362e1wS2)
