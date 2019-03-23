@@ -1,6 +1,7 @@
 Here's what's up in Armenia
 
 ## Yerevan
+![Yerevan](https://www.travelshelper.com/wp-content/uploads/2017/01/Yerevan-Armenia-travel-guide-Travel-S-Helper.jpg)
 ### Food / Cafe
 #### Cafe
 - [Achajour](https://goo.gl/maps/pVEdziNhtTq)
@@ -102,6 +103,7 @@ Here's what's up in Armenia
 - [256 Hub](https://goo.gl/maps/4ecjDTcgKik)
 
 ## Gyumri
+![Gyumri](https://phoenixtour.org/wp-content/uploads/2017/08/02-GYUMRI-PANORAMA-1.jpg)
 ### Food / Cafe
 - [Cherkezi Dzor](https://goo.gl/maps/7YY7d5UXszs)
 - [Yerankyuni Restaurant](https://goo.gl/maps/7YY7d5UXszs)
@@ -120,6 +122,7 @@ Here's what's up in Armenia
 - [Museum of Aslamazyan Sisters](https://goo.gl/maps/XYtx72jpKfv)
 
 ## Dilijan
+![Dilijan](https://braind.am/Dilijan/Dilijan-cover.jpg)
 - [Caffeine Brew Lab](https://goo.gl/maps/WaJmiVprpkD2) 
 - [Cafe 2](https://goo.gl/maps/5p61uTCxMrw)
 - [Kchuch Restaurant](https://goo.gl/maps/tCvxLbw9EcM2)
@@ -127,3 +130,16 @@ Here's what's up in Armenia
 - [Tava Losh](https://goo.gl/maps/eqfxLj867St)
 - [Carahunge Cafe](https://goo.gl/maps/JMS86D6UAUA2)
 - [Yell Extreme Park](https://goo.gl/maps/kXdevQz74ZR2)
+
+## Accommodations in nature
+![Accomodations in nature](https://edge.media.datahc.com/HI322875777.jpg)
+- [Apaga Resort](https://goo.gl/maps/qwwTAGvffLk)
+- [Daravand](https://goo.gl/maps/MaLJCrQJ1AA2)
+- [Toon Armeni](https://goo.gl/maps/PkZRxvoKe9T2)
+- [Tezh Ler](https://goo.gl/maps/CFbADud94yj)
+- [Lastiver](https://goo.gl/maps/a4qNfiup1Zm)
+- [EcoKayan](https://goo.gl/maps/P49PZSzcLNA2)
+- [Hotel Arevi](https://goo.gl/maps/kk6ofb4bJCT2)
+- [Wishup Shore](https://goo.gl/maps/RrdyasgTpC72)
+- [Eco Lodge in the Caucasus Wildlife Refuge](https://goo.gl/maps/2FmqG4Q24R72)
+- [Aya Maria Wellness SPA](https://goo.gl/maps/5jA6FEsnQ8k)
