@@ -136,6 +136,7 @@ Here's what's up in Armenia
 ## Accommodations in nature
 ![Accomodations in nature](https://edge.media.datahc.com/HI322875777.jpg)
 - [Apaga Resort](https://goo.gl/maps/qwwTAGvffLk)
+- [Lastiver Resort](https://goo.gl/maps/GiQ7HL43Nds)
 - [Daravand](https://goo.gl/maps/MaLJCrQJ1AA2)
 - [Toon Armeni](https://goo.gl/maps/PkZRxvoKe9T2)
 - [Tezh Ler](https://goo.gl/maps/CFbADud94yj)
