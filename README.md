@@ -143,5 +143,8 @@ Here's what's up in Armenia
 - [EcoKayan](https://goo.gl/maps/P49PZSzcLNA2)
 - [Hotel Arevi](https://goo.gl/maps/kk6ofb4bJCT2)
 - [Wishup Shore](https://goo.gl/maps/RrdyasgTpC72)
+- [Harsnadzor](https://goo.gl/maps/kv877REPGan)
 - [Eco Lodge in the Caucasus Wildlife Refuge](https://goo.gl/maps/2FmqG4Q24R72)
 - [Aya Maria Wellness SPA](https://goo.gl/maps/5jA6FEsnQ8k)
+- [Hooga Guest House](https://www.facebook.com/HoogaHouse/)
+- [Ark Armenia](https://www.facebook.com/ARKarmenia)
