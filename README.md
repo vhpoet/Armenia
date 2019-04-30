@@ -50,6 +50,7 @@ Here's what's up in Armenia
 - [Tsirani](https://goo.gl/maps/3SkZn1aWonu)
 - [Mayrig](https://goo.gl/maps/f4BduMX6wf52)
 - [Tun Lahmajo](https://goo.gl/maps/aMZ2L3SAPw22)
+- [Sherep](https://goo.gl/maps/bNY7WoU1cCpTa5XL6)
 
 #### Fast Food
 - [Tumanyan Shaurma](https://goo.gl/maps/XeQi4Ty8CoN2)
@@ -94,6 +95,7 @@ Here's what's up in Armenia
 - [Epicure](https://goo.gl/maps/DsCzhPr49SH2)
 - [Forty Four Sky](https://goo.gl/maps/xeVXKFCtjyt): Rooftop with great views
 - [Pahest33](https://goo.gl/maps/4yHrbRSL4dQ2)
+- [Voskevaz](https://goo.gl/maps/dbNdXzYzsUEh4FM5A)
 
 #### Live Music
 - [Calumet](https://www.google.com/maps/place/Calumet+Ethnic+Lounge+Bar/@40.1832392,44.5098291,16z/data=!4m8!1m2!2m1!1sbars!3m4!1s0x0:0x36d2daabb45bcbe!8m2!3d40.1851541!4d44.5093971)
