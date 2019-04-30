@@ -15,7 +15,6 @@ Here's what's up in Armenia
 - [Aperitivo](https://goo.gl/maps/nUmmcs7Rano)
 - [The Italian](https://goo.gl/maps/1pZEKsjA5g92)
 - [Buro](https://goo.gl/maps/M6Qp6cdbbCn): Great for working
-- [Shanti](https://goo.gl/maps/Mdm7xYP1m7Q2): Huge selection of teas
 
 #### Breakfast
 - [Eat & Fit](https://goo.gl/maps/ZDGPjAatRX12): Healthy food (vegan options)
