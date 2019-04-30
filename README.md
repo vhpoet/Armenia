@@ -27,6 +27,7 @@ Here's what's up in Armenia
 - [Crumbs](https://goo.gl/maps/YEpZGLuyHVt)
 - [Panatsea](https://goo.gl/maps/RL49eC9M6PT2)
 - [Temurnots](https://goo.gl/maps/RAJXGdZbmTu)
+- [Retro cafe](https://goo.gl/maps/3dHKqXuF2A6vzALu6)
 
 #### Lunch
 - [Shanti](https://goo.gl/maps/Mdm7xYP1m7Q2): First fully vegetarian restaurant in Yerevan
