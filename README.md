@@ -1,4 +1,5 @@
-Here's what's up in Armenia
+# Here's what's up in Armenia
+> Check the website for up to date information. https://explore.am
 
 ## Yerevan
 ![Yerevan](https://www.travelshelper.com/wp-content/uploads/2017/01/Yerevan-Armenia-travel-guide-Travel-S-Helper.jpg)
