@@ -126,7 +126,7 @@ Here's what's up in Armenia
 - [Museum of Aslamazyan Sisters](https://goo.gl/maps/XYtx72jpKfv)
 
 ## Dilijan
-![Dilijan](https://braind.am/Dilijan/Dilijan-cover.jpg)
+![Dilijan](https://r-ak.bstatic.com/images/hotel/max1280x900/199/19966753.jpg)
 - [Caffeine Brew Lab](https://goo.gl/maps/WaJmiVprpkD2) 
 - [Cafe 2](https://goo.gl/maps/5p61uTCxMrw)
 - [Kchuch Restaurant](https://goo.gl/maps/tCvxLbw9EcM2)
